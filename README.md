@@ -1,4 +1,4 @@
-# Neural Style Transfer: Bringing Art to Life 🖼️ 
+# Neural Style Transfer: Bringing Art to Life 🖼️ 🎨 🖌
 # What is Neural Style Transfer (NST)? 🧠
 
 Neural Style Transfer is a fascinating application of deep learning that blends two images:
